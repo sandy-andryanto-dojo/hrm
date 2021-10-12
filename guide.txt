@@ -1,0 +1,8 @@
+1. Buat class model dengan menyesuaikan dengan tabel di database beserta relasi, query table, dan export.
+2. Buat class API Controller dan Web Controller.
+3. Buat javascript file dengan menyesuaikan datatable API Controller dan Model.
+4. Definisikan class API dan Web Controller pada masing - masing routes, tambahkan permission lewat console jika role admin belum diberikan akses pada modul
+   yang baru dibuat.
+5. Setelah route di debug tidak ada error, tambahkan link yang menuju pada route index pada sidebar / menu aplikasi. 
+6. Buat beberapa file dummy pada database.
+7. Buat file view CRUD, terdiri dari index, create, show, edit

@@ -1,0 +1,46 @@
+#table_wrapper table {
+    width: 100% !important;
+}
+
+table .img-thumbnail {
+    width: 100px;
+}
+
+.navbar-default .navbar-right li a.menu-item {
+    padding: 0 15px;
+    line-height: 60px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.topbar .topbar-left {
+    background: #2196F3 !important;
+}
+
+.navbar-default {
+    background-color: #2196F3 !important;
+}
+
+.rotator:before {
+    background: #2196F3 !important;
+}
+
+.table-colored.table-info thead th {
+    background-color: #2196F3 !important;
+}
+
+.pagination>.active>a,
+.pagination>.active>span,
+.pagination>.active>a:hover,
+.pagination>.active>span:hover,
+.pagination>.active>a:focus,
+.pagination>.active>span:focus {
+    background-color: #2196F3 !important;
+    border-color: #337ab7 !important;
+}
+
+.tabs-bordered li.active a,
+.tabs-bordered li.active a:hover,
+.tabs-bordered li.active a:focus {
+    border-bottom: 2px solid #2196F3 !important;
+    color: #2196F3 !important;
+}

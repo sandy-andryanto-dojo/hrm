@@ -1,0 +1,15 @@
+Karyawan A
+Sudah menikah
+Tanggungan : anak 1
+Status pegawai tetap
+Upah bulanan Rp 8.000.000
+
+Karyawan B
+Belum menikah
+Status karyawan tidak tetap
+Upah bulanan Rp 5.000.000
+
+- Karyawan Tetap Bulanan
+- Karyawan Tidak Tetap Bulanan
+- Karyawan Tidak Tetap Harian
+- Karyawan Masuk Tengah Bulan / Prorata
